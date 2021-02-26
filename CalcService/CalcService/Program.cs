@@ -11,6 +11,12 @@ namespace CalcService
     {
         static void Main(string[] args)
         {
+            var host = new ServiceHost(typeof(Calculator));
+          //  host.
+            host.Open();
+
+            Console.WriteLine("Service started! Press Enter to terminate");
+            Console.ReadLine();
         }
     }
 }

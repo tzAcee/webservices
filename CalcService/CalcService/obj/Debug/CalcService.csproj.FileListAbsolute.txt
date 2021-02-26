@@ -1,0 +1,7 @@
+C:\Maxim WebService\webservices\CalcService\CalcService\obj\Debug\CalcService.csprojAssemblyReference.cache
+C:\Maxim WebService\webservices\CalcService\CalcService\obj\Debug\CalcService.csproj.CoreCompileInputs.cache
+C:\Maxim WebService\webservices\CalcService\CalcService\bin\Debug\CalcService.exe.config
+C:\Maxim WebService\webservices\CalcService\CalcService\bin\Debug\CalcService.exe
+C:\Maxim WebService\webservices\CalcService\CalcService\bin\Debug\CalcService.pdb
+C:\Maxim WebService\webservices\CalcService\CalcService\obj\Debug\CalcService.exe
+C:\Maxim WebService\webservices\CalcService\CalcService\obj\Debug\CalcService.pdb
